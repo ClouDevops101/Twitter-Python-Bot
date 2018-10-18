@@ -11,7 +11,11 @@ The configuration is inside the python script :
 
 Requierements
 ================
-Twitter API Credential
+1 - Installing the dependencies
+```bash
+pip install -r requirements.txt 
+```
+2- Adding Twitter API Credential
 
 Installation
 ================
