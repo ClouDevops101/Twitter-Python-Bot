@@ -44,7 +44,7 @@ You can customize the hashtag that you need by fullfulling the follow list :
          hashtag = ["robot","cloud", "azure", "aws", "apple", "tesla", "uber" ," facebook ", "linux","fintech", "lifehacking" ,"google ", "docker", "devops", "bigdata", "datascience", "bitcoin", "IOT ", "AI ", "hack", "hacking", "lifestyle"]
 # ...
 ```
-Causion 
+Caution 
 ================
 Unless you have a business account twitter will apply a daly quota / monthly quota : 
 Please refer to twitter error table : 
