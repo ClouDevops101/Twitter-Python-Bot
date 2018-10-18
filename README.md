@@ -29,7 +29,7 @@ accessTokenKey = os.environ['access_token_key']
 accessTokenSecret = os.environ['access_token_secret']
 
 ```
-Befor use
+Before use
 ================
 You'll need to add list of the people you follow, and get the List id 
 
