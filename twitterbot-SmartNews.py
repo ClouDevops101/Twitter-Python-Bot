@@ -110,7 +110,7 @@ if __name__ == '__main__':
              continue
          print list_h
          if len(list_h):
-           Message = "#" +  " #".join(list_h) + " #fintech " + url + " " +
+           Message = "#" +  " #".join(list_h) + " #fintech " + url + " "
            print "To be sent :--" + Message + "---"
            try:
              status = api.PostUpdate(Message)
